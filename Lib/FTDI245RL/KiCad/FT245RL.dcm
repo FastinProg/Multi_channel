@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT245RL
+D FT245RL, Universal Asynchronous Receiver & Transmitter 1Mbit/s, 28-Pin, SSOP
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf
+$ENDCMP
+#
+#End Doc Library

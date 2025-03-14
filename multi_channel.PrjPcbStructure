@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=ADC_0.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=ADC_0_MUL.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=ADC_1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=ADC_1_MUL.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Connectors.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter3.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter4.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter5.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter6.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=Filter7.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=ADC_0.SchDoc|FileName=MCU.SchDoc|SheetNumber=1

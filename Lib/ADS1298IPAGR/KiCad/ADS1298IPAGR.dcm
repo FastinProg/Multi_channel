@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1298IPAGR
+D 8-Channel 24-bit ADC With Integrated ECG Front End
+K
+F http://www.ti.com/lit/ds/symlink/ads1294.pdf
+$ENDCMP
+#
+#End Doc Library

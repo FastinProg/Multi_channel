@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=ADS1298IPAGR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=2.1
+Released=2017-07-25 07:11:48
+Downloaded=2022-12-15 19:39:27
+3D=Y

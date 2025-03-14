@@ -1,0 +1,9 @@
+Manufacturer=FTDI Chip
+PartNumber=FT245RL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=28
+Version=3.1
+Released=2015-07-28 06:58:00
+Downloaded=2023-11-10 14:45:12
+3D=Y

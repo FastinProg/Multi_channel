@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADS1298IPAGR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ADS1298IPAGR" (!) = "", "QFP50P1200X1200X120-64N", "Quad Flat Packages", "595-ADS1298IPAGR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1298IPAGR?qs=Z6FgPJT5dDSzK7JhuKfPmw%3D%3D", "8-Channel 24-bit ADC With Integrated ECG Front End", "http://www.ti.com/lit/ds/symlink/ads1294.pdf", "1.2 mm"
+END_PART
+
+END.

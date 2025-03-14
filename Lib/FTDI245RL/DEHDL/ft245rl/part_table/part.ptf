@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FT245RL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "FTDI Chip", "FT245RL" (!) = "", "SOP65P778X200-28N", "Small Outline Packages", "", "", "", "", "FT245RL, Universal Asynchronous Receiver & Transmitter 1Mbit/s, 28-Pin, SSOP", "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf", "2 mm"
+END_PART
+
+END.
